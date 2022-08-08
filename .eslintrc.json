@@ -32,6 +32,7 @@
             }
         ],
         "react/react-in-jsx-scope": "off",
+        "jsx-all/anchor-in-valid": "off",
         "linebreak-style": [
             "error",
             "unix"
