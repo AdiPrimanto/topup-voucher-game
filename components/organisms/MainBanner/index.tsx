@@ -14,8 +14,7 @@ export default function MainBanner() {
                         <span className="d-sm-inline d-none">a</span>
                         <span className="d-sm-none d-inline">a</span>
                         <span className="underline-blue"> New</span> <br className="d-sm-block d-none" />
-                        <span className="underline-blue">Experience</span>
-                        in Gaming
+                        <span className="underline-blue">Experience</span> in Gaming
                     </h1>
                     <p className="mt-30 mb-40 text-lg color-palette-1">Kami menyediakan jutaan cara untuk membantu<br
                         className="d-md-block d-none"
